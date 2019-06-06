@@ -2,7 +2,6 @@
 
 Use the new .CSV format to upload or update your Meeting Room 365 displays in bulk
 
-eek ago
 
 [![](https://downloads.intercomcdn.com/i/o/63646518/41bcc6da1e370c48191d47d7/1%2Ar2yk78Tfp1N50xM6Nwndbw.png)](https://downloads.intercomcdn.com/i/o/63646518/41bcc6da1e370c48191d47d7/1%2Ar2yk78Tfp1N50xM6Nwndbw.png)
 
@@ -103,5 +102,5 @@ Here is a complete list of optional columns, which do not need to exist in the C
 
 Questions? Please reach out and let us know, so we can expand this article.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODA0OTE0Ml19
+eyJoaXN0b3J5IjpbNjA4MzI1ODg2LDIwOTgwNDkxNDJdfQ==
 -->
